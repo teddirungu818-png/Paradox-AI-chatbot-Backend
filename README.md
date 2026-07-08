@@ -1,2 +1,2 @@
-# Paradox-AI-chatbot-Backend
+# AI-chatbot-Backend
 <!-- Connect to the ui -->
